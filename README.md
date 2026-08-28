@@ -3,7 +3,7 @@
 **University:** Yachay Tech - School of Mathematical and Computational Sciences  
 **Program:** Computer Science, 7th Semester (Semester II 2026)  
 **Instructor:** Prof. Francisco Hidrobo  
-**Student:** [Tu Nombre]  
+**Student:** Christopher Ortiz   
 
 ## About this Repository
 This repository contains all the workshops, assignments, and projects developed during the **Web Applications** course. The course covers the full spectrum of web development, starting from basic front-end technologies to advanced back-end architectures, deployment, and security.
