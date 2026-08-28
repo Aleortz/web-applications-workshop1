@@ -1,0 +1,66 @@
+/* Importamos una tipografía moderna desde Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #0b1a26;
+    /* Fondo azul oscuro de tu imagen */
+    color: #ffffff;
+    /* Texto blanco */
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 30px;
+    /* Un fondo ligeramente transparente para que el texto resalte */
+    background-color: rgba(255, 255, 255, 0.03);
+    border-radius: 8px;
+}
+
+header {
+    text-align: center;
+    background-color: #07121a;
+    /* Un tono aún más oscuro para el menú superior */
+    padding: 25px 0;
+    border-bottom: 2px solid #30a2ff;
+    /* Línea decorativa azul brillante */
+}
+
+header h1 {
+    margin: 0 0 15px 0;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+/* Diseño del menú de navegación */
+nav a {
+    color: #a0b2c0;
+    /* Gris azulado para los enlaces inactivos */
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    /* Letras en mayúscula como en la imagen */
+    padding: 0 15px;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #30a2ff;
+    /* Acento azul brillante al pasar el ratón */
+}
+
+/* Enlaces generales en el texto */
+a {
+    color: #30a2ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,52 @@
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+label {
+    font-weight: 300;
+    margin-top: 15px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="number"],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    background-color: rgba(255, 255, 255, 0.05);
+    /* Cajas de texto oscuras */
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    /* Texto blanco al escribir */
+    border-radius: 2px;
+}
+
+/* El botón azul brillante de la imagen */
+input[type="submit"] {
+    background-color: #30a2ff;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #2085d6;
+    /* Azul un poco más oscuro al pasar el ratón */
+}

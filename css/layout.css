@@ -1,0 +1,45 @@
+section {
+    background-color: rgba(0, 0, 0, 0.2);
+    /* Fondo sutil para las tarjetas */
+    border-left: 4px solid #30a2ff;
+    /* Línea lateral azul brillante */
+    padding: 20px 25px;
+    margin-bottom: 25px;
+    border-radius: 4px;
+}
+
+section h2 {
+    color: #30a2ff;
+    font-weight: 400;
+    margin-top: 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding-bottom: 10px;
+}
+
+/* Adaptación de la tabla de horario */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,
+td {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #07121a;
+    color: #30a2ff;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+td[rowspan] {
+    background-color: rgba(48, 162, 255, 0.1);
+    /* Azul brillante muy transparente */
+    color: #ffffff;
+    font-weight: 600;
+}
