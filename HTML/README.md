@@ -3,7 +3,7 @@
 **University:** Yachay Tech - School of Mathematical and Computational Sciences
 **Course:** Web Applications (Semester II 2026)
 **Instructor:** Prof. Francisco Hidrobo
-**Authors:** [Tu Nombre] & Demian Viteri
+**Authors:** Christopher Ortiz 
 **Program:** Computer Science, 7th Semester
 
 ## Objective

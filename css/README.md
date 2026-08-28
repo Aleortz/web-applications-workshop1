@@ -3,7 +3,7 @@
 **University:** Yachay Tech - School of Mathematical and Computational Sciences
 **Course:** Web Applications (Semester II 2026)
 **Instructor:** Prof. Francisco Hidrobo
-**Author:** [Tu Nombre]
+**Author:** Christopher Ortiz 
 **Program:** Computer Science, 7th Semester
 
 ## Objective
@@ -29,7 +29,9 @@ my-site/
 │   ├── hobbies.html
 │   └── contact.html
 └── images/
-    └── Logo-YT-Azul-Transparencia.png
+    ├── Logo-YT-Azul-Transparencia.png
+    └── profile.jpg
+
 ```
 
 ## Prerequisites
