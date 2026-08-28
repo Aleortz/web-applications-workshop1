@@ -18,19 +18,21 @@ Modify the website created in Workshop 1 by adding CSS to improve the layout, di
 ## Project Structure
 ```text
 my-site/
-├── index.html
-├── css/
-│   ├── global.css
-│   ├── layout.css
-│   └── forms.css
-├── pages/
-│   ├── courses.html
-│   ├── schedule.html
-│   ├── hobbies.html
-│   └── contact.html
-└── images/
-    ├── Logo-YT-Azul-Transparencia.png
-    └── profile.jpg
+├── HTML_CSS/
+    ├──Workshop2/
+        ├── index.html
+        ├── css/
+        │   ├── global.css
+        │   ├── layout.css
+        │   └── forms.css
+        ├── pages/
+        │   ├── courses.html
+        │   ├── schedule.html
+        │   ├── hobbies.html
+        │   └── contact.html
+        └── images/
+            ├── Logo-YT-Azul-Transparencia.png
+            └── profile.jpg
 
 ```
 

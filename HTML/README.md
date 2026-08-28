@@ -19,15 +19,17 @@ To run this project locally with the custom domain, you need to edit your `hosts
 ## Project Structure
 ```text
 my-site/
-├── index.html
-├── pages/
-│   ├── courses.html
-│   ├── schedule.html
-│   ├── hobbies.html
-│   └── contact.html
-└── images/
-    ├── Logo-YT-Azul-Transparencia.png
-    └── profile.jpg
+├──HTML
+    ├──Workshop_1
+        ├── index.html
+        ├── pages/
+        │   ├── courses.html
+        │   ├── schedule.html
+        │   ├── hobbies.html
+        │   └── contact.html
+        └── images/
+            ├── Logo-YT-Azul-Transparencia.png
+            └── profile.jpg
 ```
 
 ## Features
